@@ -8,7 +8,7 @@ Start by simply downloading the packet below:
 
 __[Download Shitlists!](https://github.com/efats/shitlists/raw/master/shitlists.pdf)__
 
-It includes instructions, as well as all the lists so far created. It's all you need to get going. Well almost: you'll also need something to roll random letters, and a stopwatch too. Wouldn't it be great if we had a small personal electronic device that could do both those things?!
+It includes instructions, as well as all the lists so far created. It's all you need to get going. Well... almost. You'll also need something to roll random letters, and a stopwatch too. Wouldn't it be great if we had a small personal electronic device that could do both those things?!
 
 ## Development
 
