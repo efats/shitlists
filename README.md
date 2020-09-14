@@ -4,7 +4,7 @@ Shitlists! is a game that slowly evolved during the 2020 pandemic. My family, li
 
 It's fun, dirty, able to be played virtually, and much like "Whose Line is it Anyway?", the points don't matter nearly as much as the fun had (though we do keep score...).
 
-We recommend you start by simply downloading the packet below:
+Start by simply downloading the packet below:
 
 __[Download Shitlists!](https://github.com/efats/shitlists/raw/master/shitlists.pdf)__
 
@@ -19,6 +19,8 @@ Feel free to submit PRs if you make new lists, or have good ideas. Note hate all
 ## License
 
 I selected the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) license for Shitlists! The idea is that I want to enable you to do virtually anything, including derivative works, so long as you also pay that goodwill forward. Commercial uses are *not* allowed; let's __be excellent to one another__.
+
+Icons used are licensed under less-restrictive CC licenses. Fonts used are licensed under either Apache or Open Font licenses. All attributions included below.
 
 ## Credits
 
